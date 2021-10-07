@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.chop">
+    package="com.example.chope">
    <application
-        android:label="chop"
+        android:label="Chope"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
