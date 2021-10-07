@@ -1,4 +1,4 @@
-# chop
+# Chope Group 
 
 A new Flutter project.
 
