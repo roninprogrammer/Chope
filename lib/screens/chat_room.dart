@@ -34,6 +34,7 @@ class _ChatRoomState extends State<ChatRoom> {
               children: [
                 Text(
                   widget.user.name,
+                  style: ChopeTheme.chatSenderName,
                 ),
                 Text(
                   'online',
